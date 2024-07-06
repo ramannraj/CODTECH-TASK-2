@@ -1,4 +1,8 @@
-
+Name : RAMAN RAJ 
+Company : CODTECH IT SOLUTIONS 
+ID : CT6WDS280 Domain : VLSI
+Duration :10TH JUNE 2024 to 25TH JULY 2024 
+Mentor : SRAVANI GOUNI
 
 ## output for Finite State Machine
 ![Screenshot 2024-06-26 130556](https://github.com/AnshRajBitS/CODTECH--TASK-2-/assets/173932543/347c557a-dd53-4827-b773-23d7fe3343e0)
